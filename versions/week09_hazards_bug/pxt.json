@@ -1,0 +1,10 @@
+{
+    "name": "Tide Turners (week09_hazards_bug)",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tide Turners (week08_rubbish_and_timer)",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tide Turners (week07_boat_moves)",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "blocksprj"
+}
