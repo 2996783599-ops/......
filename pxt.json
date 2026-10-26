@@ -1,0 +1,13 @@
+{
+    "name": "Tide Turners",
+    "description": "Tide Turners: clean the reef in 90 seconds without hurting it. MakeCode Arcade.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj"
+}
