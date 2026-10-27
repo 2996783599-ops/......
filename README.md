@@ -20,7 +20,7 @@ Download `main.ts`, open a new MakeCode Arcade project, click **JavaScript**, pa
 
 ## Rules
 
-- Each piece of rubbish = 1 point. Rubbish sinks after 7 seconds if nobody picks it up.
+- Each piece of rubbish = 1 point. Rubbish disappears after 7 seconds if nobody picks it up.
 - The water starts brown. At 10 points it turns green-blue, at 20 it turns light blue.
 - Hitting a turtle or coral = lose 1 life, and the boat goes back to the start. 3 lives.
 - Time up = you win. No lives left = you lose.
@@ -54,7 +54,7 @@ Each version folder has its own `main.ts` and `pxt.json`, so it can be opened th
 | `updateWater()` | if / else if / else on the score: brown, green-blue, light blue |
 | `on countdown end` / `on life zero` | game over (win / lose) |
 
-Every block has a comment (in the Blocks view, click the small speech-bubble icon on a block to read it).
+The main blocks and functions have comments (in the Blocks view, click the small speech-bubble icon on a block to read it).
 
 ## Credits
 

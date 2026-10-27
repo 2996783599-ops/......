@@ -63,7 +63,7 @@ function spawnRubbish () {
     // If nobody picks it up in 7 seconds it sinks and is gone.
     rubbish.lifespan = 7000
 }
-// Week 10 change after testing: players did not look at the score,
+// Week 10 change after testing: a classmate said they did not look at the score,
 // so the water colour shows it. Brown = dirty, green = getting better, light blue = clean.
 function updateWater () {
     if (info.score() >= 20) {
